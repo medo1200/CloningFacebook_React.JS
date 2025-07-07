@@ -170,7 +170,7 @@ function StoriesNavBar() {
   );
 }
 
-function HomeFirstPage(props) {
+function HomeFirstPage() {
   // Assume that props.name is the person name
   return (
     <div className={styles.HomeFirstPageContainer}>

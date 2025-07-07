@@ -1,7 +1,6 @@
 import styles from "../css/LoginPage.module.css";
 import FacebookLogo from "../assets/icons/fb-logo.png";
 import MetaIcon from "../assets/icons/meta-icon.png";
-import HomeFirstPage from './HomeFirstPage';
 import { useState } from "react";
 
 
