@@ -1,0 +1,61 @@
+.HomeFirstPageContainer {
+  text-align: center;
+}
+
+.MiddleNavBar > input::placeholder {
+  color: black;
+}
+
+.StoriesNavBar > .storyCard {
+  height: 197px;
+  min-width: 110px;
+  max-width: 110px;
+  background-color: blue;
+  align-self: center;
+  margin: 0 3px;
+  overflow: hidden;
+  border-radius: 10px;
+  position: relative;
+
+  img {
+    height: 100%;
+    width: 160%;
+    position: absolute;
+    left: -10px;
+  }
+
+  p {
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    font-weight: bold;
+    padding: 0 3%;
+    font-size: 0.8rem;
+    text-align: left;
+  }
+}
+
+.StoriesNavBar > .FirststoryCard {
+  align-self: center;
+  height: 197px;
+  min-width: 110px;
+  max-width: 110px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+
+  img {
+    height: 120px;
+    position: absolute;
+    left: 0px;
+  }
+
+  p {
+    position: absolute;
+    bottom: 5%;
+    color: black;
+    font-weight: bold;
+    font-size: 0.8rem;
+    padding: 0 1%;
+  }
+}
