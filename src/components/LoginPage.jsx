@@ -33,7 +33,7 @@ function LoginPage({ onLogin }) {
             Log in
           </button>
         </form>
-        <a href="#">Forgotten Password?</a>
+        <a >Forgotten Password?</a>
       </div>
 
       
