@@ -1,30 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.552690db.css",
-    "main.js": "/static/js/main.9067bd15.js",
-    "static/js/453.6d417b19.chunk.js": "/static/js/453.6d417b19.chunk.js",
-    "static/media/my-face.jpg": "/static/media/my-face.2b3dce64f1d3022cb19e.jpg",
-    "static/media/verified-icon.jpg": "/static/media/verified-icon.03de446aab348b5e3635.jpg",
-    "static/media/adel-emam-story.jpg": "/static/media/adel-emam-story.e2bd43129ee9b4b4bb79.jpg",
-    "static/media/jackie-chan-story.jpg": "/static/media/jackie-chan-story.1b5dd9ce78716ed9b496.jpg",
-    "static/media/friends-duo-icon.png": "/static/media/friends-duo-icon.49a123bcd52c7bd9810f.png",
-    "static/media/mark-zuckerberg-story.avif": "/static/media/mark-zuckerberg-story.aa9b1eaa034214b2a925.avif",
-    "static/media/store-icon.svg": "/static/media/store-icon.5b14e48bdd385f3d013aa86b26a352ba.svg",
-    "static/media/search-icon.svg": "/static/media/search-icon.f36b7ebcc4acf872916589d1dcd8d880.svg",
-    "static/media/like-svgrepo-com.svg": "/static/media/like-svgrepo-com.26720c5709b59db4d1f4dcd4b59e2b74.svg",
-    "static/media/fb-chats-icon.svg": "/static/media/fb-chats-icon.b97667aac4c6e3f65e337fb119a22a72.svg",
-    "static/media/three-dots-svgrepo-com.svg": "/static/media/three-dots-svgrepo-com.90fbc22b8eadb358fb11f2ecc1930816.svg",
-    "static/media/home-icon.svg": "/static/media/home-icon.aa5de1bec9667041d0db5894536d5df9.svg",
-    "static/media/menu-svgrepo.svg": "/static/media/menu-svgrepo.310c2e2f677466a0800d7e05342a6447.svg",
+    "main.css": "/static/css/main.fe9c6888.css",
+    "main.js": "/static/js/main.a5a1f95d.js",
+    "static/media/ugly-pp.jpg": "/static/media/ugly-pp.08cbe2a9f3a423b490fc.jpg",
+    "static/media/man2-pp.jpg": "/static/media/man2-pp.da25ede8769384609140.jpg",
+    "static/media/shower-pp.jpg": "/static/media/shower-pp.0b6d53dae3c14123798d.jpg",
+    "static/media/facebook-family-logo.png": "/static/media/facebook-family-logo.eb9b382c45fec0d9cf74.png",
+    "static/media/chats-logo.svg": "/static/media/chats-logo.050348e68a37dd9eab3bd8595b4e3d71.svg",
+    "static/media/like-logo.svg": "/static/media/like-logo.fb39639008cde00b88011b647acb73e5.svg",
+    "static/media/friends-group-logo.svg": "/static/media/friends-group-logo.a96d03b7a5a0b43e81d1a4563e75cca0.svg",
+    "static/media/bell-logo.svg": "/static/media/bell-logo.a0a6bb673242b9fec3b6fb1f1b440554.svg",
+    "static/media/comment-icon.svg": "/static/media/comment-icon.f3a86ce3bd830b915b084b707d37edcc.svg",
+    "static/media/streaming-logo.svg": "/static/media/streaming-logo.4e577c9fd991fc577437117fa6e44832.svg",
+    "static/media/share-logo.svg": "/static/media/share-logo.7bb12247a01927db1e4146f51fd8e808.svg",
+    "static/media/marketplace-logo.svg": "/static/media/marketplace-logo.b03aa7d28c59e5a5f91704196f62a77e.svg",
     "index.html": "/index.html",
-    "static/media/share-svgrepo-com.svg": "/static/media/share-svgrepo-com.f5c56e0877b53e7b78ee223d2e0d62f4.svg",
-    "static/media/instagram-comment-icon.svg": "/static/media/instagram-comment-icon.95ccce546541668fcc76379ecb8ce05d.svg",
-    "main.552690db.css.map": "/static/css/main.552690db.css.map",
-    "main.9067bd15.js.map": "/static/js/main.9067bd15.js.map",
-    "453.6d417b19.chunk.js.map": "/static/js/453.6d417b19.chunk.js.map"
+    "main.fe9c6888.css.map": "/static/css/main.fe9c6888.css.map",
+    "main.a5a1f95d.js.map": "/static/js/main.a5a1f95d.js.map"
   },
   "entrypoints": [
-    "static/css/main.552690db.css",
-    "static/js/main.9067bd15.js"
+    "static/css/main.fe9c6888.css",
+    "static/js/main.a5a1f95d.js"
   ]
 }
