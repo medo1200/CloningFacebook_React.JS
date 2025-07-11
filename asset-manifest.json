@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe9c6888.css",
-    "main.js": "/static/js/main.a5a1f95d.js",
+    "main.css": "/static/css/main.206beb9f.css",
+    "main.js": "/static/js/main.c9c669fa.js",
     "static/media/ugly-pp.jpg": "/static/media/ugly-pp.08cbe2a9f3a423b490fc.jpg",
+    "static/media/upmouth-pp.jpg": "/static/media/upmouth-pp.2385e20da365a317e349.jpg",
     "static/media/man2-pp.jpg": "/static/media/man2-pp.da25ede8769384609140.jpg",
+    "static/media/boy-pp.jpg": "/static/media/boy-pp.1ab270b33e019a22a7f2.jpg",
     "static/media/shower-pp.jpg": "/static/media/shower-pp.0b6d53dae3c14123798d.jpg",
     "static/media/facebook-family-logo.png": "/static/media/facebook-family-logo.eb9b382c45fec0d9cf74.png",
+    "static/media/showerBoy-ppavif.avif": "/static/media/showerBoy-ppavif.4087047d24444a0f1bd4.avif",
     "static/media/chats-logo.svg": "/static/media/chats-logo.050348e68a37dd9eab3bd8595b4e3d71.svg",
     "static/media/like-logo.svg": "/static/media/like-logo.fb39639008cde00b88011b647acb73e5.svg",
     "static/media/friends-group-logo.svg": "/static/media/friends-group-logo.a96d03b7a5a0b43e81d1a4563e75cca0.svg",
@@ -15,11 +18,11 @@
     "static/media/share-logo.svg": "/static/media/share-logo.7bb12247a01927db1e4146f51fd8e808.svg",
     "static/media/marketplace-logo.svg": "/static/media/marketplace-logo.b03aa7d28c59e5a5f91704196f62a77e.svg",
     "index.html": "/index.html",
-    "main.fe9c6888.css.map": "/static/css/main.fe9c6888.css.map",
-    "main.a5a1f95d.js.map": "/static/js/main.a5a1f95d.js.map"
+    "main.206beb9f.css.map": "/static/css/main.206beb9f.css.map",
+    "main.c9c669fa.js.map": "/static/js/main.c9c669fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe9c6888.css",
-    "static/js/main.a5a1f95d.js"
+    "static/css/main.206beb9f.css",
+    "static/js/main.c9c669fa.js"
   ]
 }
