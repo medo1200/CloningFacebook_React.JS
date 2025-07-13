@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.21927ed2.css",
-    "main.js": "/static/js/main.b819cdfb.js",
+    "main.css": "/static/css/main.86b9c4c0.css",
+    "main.js": "/static/js/main.1e975958.js",
+    "static/media/amrdiab-pp.jpg": "/static/media/amrdiab-pp.dd3a6aab10d89ba5c869.jpg",
+    "static/media/willsmith-pp.jpg": "/static/media/willsmith-pp.e76fd700e4f01473ea51.jpg",
     "static/media/ugly-pp.jpg": "/static/media/ugly-pp.08cbe2a9f3a423b490fc.jpg",
+    "static/media/markzuckerberg-pp.jpg": "/static/media/markzuckerberg-pp.26b0f150dd19e8d329c4.jpg",
     "static/media/upmouth-pp.jpg": "/static/media/upmouth-pp.2385e20da365a317e349.jpg",
     "static/media/verified-icon.jpg": "/static/media/verified-icon.03de446aab348b5e3635.jpg",
     "static/media/man2-pp.jpg": "/static/media/man2-pp.da25ede8769384609140.jpg",
+    "static/media/khalednabawy-pp.jpg": "/static/media/khalednabawy-pp.79946628d1dcf7ec4e73.jpg",
     "static/media/boy-pp.jpg": "/static/media/boy-pp.1ab270b33e019a22a7f2.jpg",
     "static/media/shower-pp.jpg": "/static/media/shower-pp.0b6d53dae3c14123798d.jpg",
     "static/media/facebook-family-logo.png": "/static/media/facebook-family-logo.eb9b382c45fec0d9cf74.png",
+    "static/media/adelimam-pp.jpg": "/static/media/adelimam-pp.43e3d3554ef5811780cc.jpg",
     "static/media/showerBoy-ppavif.avif": "/static/media/showerBoy-ppavif.4087047d24444a0f1bd4.avif",
     "static/media/liked.svg": "/static/media/liked.ab4cdb5810b515ce98b001e98e5f2e63.svg",
     "static/media/chats-logo.svg": "/static/media/chats-logo.050348e68a37dd9eab3bd8595b4e3d71.svg",
@@ -20,11 +25,11 @@
     "static/media/share-logo.svg": "/static/media/share-logo.7bb12247a01927db1e4146f51fd8e808.svg",
     "static/media/marketplace-logo.svg": "/static/media/marketplace-logo.b03aa7d28c59e5a5f91704196f62a77e.svg",
     "index.html": "/index.html",
-    "main.21927ed2.css.map": "/static/css/main.21927ed2.css.map",
-    "main.b819cdfb.js.map": "/static/js/main.b819cdfb.js.map"
+    "main.86b9c4c0.css.map": "/static/css/main.86b9c4c0.css.map",
+    "main.1e975958.js.map": "/static/js/main.1e975958.js.map"
   },
   "entrypoints": [
-    "static/css/main.21927ed2.css",
-    "static/js/main.b819cdfb.js"
+    "static/css/main.86b9c4c0.css",
+    "static/js/main.1e975958.js"
   ]
 }
