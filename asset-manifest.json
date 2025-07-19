@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5519a730.css",
-    "main.js": "/static/js/main.83e4fb71.js",
+    "main.css": "/static/css/main.e2f16d12.css",
+    "main.js": "/static/js/main.8cd8c2bc.js",
     "static/media/adelimam-pp.jpg": "/static/media/adelimam-pp.43e3d3554ef5811780cc.jpg",
     "static/media/man2-pp.jpg": "/static/media/man2-pp.f0652a76261b60df09e8.jpg",
     "static/media/facebook-family-logo.png": "/static/media/facebook-family-logo.2c05618ac11a4b892a64.png",
@@ -15,6 +15,7 @@
     "static/media/markzuckerberg-pp.jpg": "/static/media/markzuckerberg-pp.43ff303fcb44d3e997d0.jpg",
     "static/media/willsmith-pp.jpg": "/static/media/willsmith-pp.bb52625e77fec1ac1bf7.jpg",
     "static/media/khalednabawy-pp.jpg": "/static/media/khalednabawy-pp.528017db4a397f97259d.jpg",
+    "static/media/newPostPicture.jpg": "/static/media/newPostPicture.448b4f1d31801536ae56.jpg",
     "static/media/upmouth-pp.jpg": "/static/media/upmouth-pp.ce0f70eb2d19719bac98.jpg",
     "static/media/ugly-pp.jpg": "/static/media/ugly-pp.cf0be5a87191f8a37ecd.jpg",
     "static/media/gback-icon.svg": "/static/media/gback-icon.a06a1fdf5b3a06afa4aa229ef9bb4f9d.svg",
@@ -35,11 +36,11 @@
     "static/media/marketplace-logo.svg": "/static/media/marketplace-logo.b03aa7d28c59e5a5f91704196f62a77e.svg",
     "static/media/search-iconsvg.svg": "/static/media/search-iconsvg.9ce529b16204e02abffda65b626f78ac.svg",
     "index.html": "/index.html",
-    "main.5519a730.css.map": "/static/css/main.5519a730.css.map",
-    "main.83e4fb71.js.map": "/static/js/main.83e4fb71.js.map"
+    "main.e2f16d12.css.map": "/static/css/main.e2f16d12.css.map",
+    "main.8cd8c2bc.js.map": "/static/js/main.8cd8c2bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5519a730.css",
-    "static/js/main.83e4fb71.js"
+    "static/css/main.e2f16d12.css",
+    "static/js/main.8cd8c2bc.js"
   ]
 }
