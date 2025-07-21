@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2f16d12.css",
-    "main.js": "/static/js/main.d175dbe4.js",
+    "main.css": "/static/css/main.20968421.css",
+    "main.js": "/static/js/main.771fe310.js",
     "static/media/adelimam-pp.jpg": "/static/media/adelimam-pp.43e3d3554ef5811780cc.jpg",
     "static/media/man2-pp.jpg": "/static/media/man2-pp.f0652a76261b60df09e8.jpg",
     "static/media/facebook-family-logo.png": "/static/media/facebook-family-logo.2c05618ac11a4b892a64.png",
@@ -36,11 +36,11 @@
     "static/media/marketplace-logo.svg": "/static/media/marketplace-logo.b03aa7d28c59e5a5f91704196f62a77e.svg",
     "static/media/search-iconsvg.svg": "/static/media/search-iconsvg.9ce529b16204e02abffda65b626f78ac.svg",
     "index.html": "/index.html",
-    "main.e2f16d12.css.map": "/static/css/main.e2f16d12.css.map",
-    "main.d175dbe4.js.map": "/static/js/main.d175dbe4.js.map"
+    "main.20968421.css.map": "/static/css/main.20968421.css.map",
+    "main.771fe310.js.map": "/static/js/main.771fe310.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2f16d12.css",
-    "static/js/main.d175dbe4.js"
+    "static/css/main.20968421.css",
+    "static/js/main.771fe310.js"
   ]
 }
