@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.20968421.css",
-    "main.js": "/static/js/main.771fe310.js",
+    "main.js": "/static/js/main.b03c907d.js",
     "static/media/adelimam-pp.jpg": "/static/media/adelimam-pp.43e3d3554ef5811780cc.jpg",
     "static/media/man2-pp.jpg": "/static/media/man2-pp.f0652a76261b60df09e8.jpg",
     "static/media/facebook-family-logo.png": "/static/media/facebook-family-logo.2c05618ac11a4b892a64.png",
@@ -23,24 +23,17 @@
     "static/media/readAll-icon.svg": "/static/media/readAll-icon.9dd5d09f396dcb3c51ecd2ddd4125469.svg",
     "static/media/search-icon.svg": "/static/media/search-icon.05dadd27af943561114dbe64ca55a609.svg",
     "static/media/following-iconsvg.svg": "/static/media/following-iconsvg.75c1288cf902907615823571d057b7d6.svg",
-    "static/media/chats-logo.svg": "/static/media/chats-logo.050348e68a37dd9eab3bd8595b4e3d71.svg",
-    "static/media/friends-group-logo.svg": "/static/media/friends-group-logo.a96d03b7a5a0b43e81d1a4563e75cca0.svg",
     "static/media/video-reel.svg": "/static/media/video-reel.7ed2812b852e65e330c93d2e5a11282f.svg",
     "static/media/like-logo.svg": "/static/media/like-logo.d31c4306fa037866de75af6d35da4ba8.svg",
     "static/media/foryou-icon.svg": "/static/media/foryou-icon.1743d84b2f86697edd88539d34cbf1fd.svg",
-    "static/media/bell-logo.svg": "/static/media/bell-logo.a0a6bb673242b9fec3b6fb1f1b440554.svg",
     "static/media/comment-icon.svg": "/static/media/comment-icon.f3a86ce3bd830b915b084b707d37edcc.svg",
-    "static/media/streaming-logo.svg": "/static/media/streaming-logo.4e577c9fd991fc577437117fa6e44832.svg",
     "static/media/share-logo.svg": "/static/media/share-logo.7bb12247a01927db1e4146f51fd8e808.svg",
-    "static/media/person-icon.svg": "/static/media/person-icon.9a1db6c107920a6147c108f50f18f0ca.svg",
-    "static/media/marketplace-logo.svg": "/static/media/marketplace-logo.b03aa7d28c59e5a5f91704196f62a77e.svg",
-    "static/media/search-iconsvg.svg": "/static/media/search-iconsvg.9ce529b16204e02abffda65b626f78ac.svg",
     "index.html": "/index.html",
     "main.20968421.css.map": "/static/css/main.20968421.css.map",
-    "main.771fe310.js.map": "/static/js/main.771fe310.js.map"
+    "main.b03c907d.js.map": "/static/js/main.b03c907d.js.map"
   },
   "entrypoints": [
     "static/css/main.20968421.css",
-    "static/js/main.771fe310.js"
+    "static/js/main.b03c907d.js"
   ]
 }
