@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.05a28209.css",
-    "main.js": "/static/js/main.b0f66a7e.js",
+    "main.js": "/static/js/main.e578360a.js",
     "static/media/pugavif.avif": "/static/media/pugavif.a328bbefff0c50c0d074.avif",
     "static/media/dress.avif": "/static/media/dress.bba36fed9165032f942b.avif",
     "static/media/adelimam-pp.jpg": "/static/media/adelimam-pp.43e3d3554ef5811780cc.jpg",
@@ -33,10 +33,10 @@
     "static/media/share-logo.svg": "/static/media/share-logo.7bb12247a01927db1e4146f51fd8e808.svg",
     "index.html": "/index.html",
     "main.05a28209.css.map": "/static/css/main.05a28209.css.map",
-    "main.b0f66a7e.js.map": "/static/js/main.b0f66a7e.js.map"
+    "main.e578360a.js.map": "/static/js/main.e578360a.js.map"
   },
   "entrypoints": [
     "static/css/main.05a28209.css",
-    "static/js/main.b0f66a7e.js"
+    "static/js/main.e578360a.js"
   ]
 }
