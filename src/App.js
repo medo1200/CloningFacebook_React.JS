@@ -1,42 +1,45 @@
 import "./App.css";
-import { useState } from "react";
-import database from "./data/users";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import StartupPage from "./components/StartupPage";
 import LoginPage from "./components/LoginPage";
-import HomeFirstPage from "./components/HomeFirstPage";
+import WelcomeHomePage from "./components/WelcomeHomePage";
+import Friends from "./components/Friends";
+import Messages from "./components/Messages";
+import Reels from "./components/Reels";
+import Notifications from "./components/Notifications";
+import MarketPlace from "./components/MarketPlace";
 
-
-function PhoneValidation() {
-      // If device greater than 480px width
-    return (
-      <h1 style={{ textAlign: "center" }}>
-        Sorry , This application for phones only
-      </h1>
-    );
-}
-
+const UnavailableMssg = (
+  <h1 style={{ textAlign: "center" }}>
+    404 Oops! We couldn’t find that page.
+    <br />
+    Please double-check the web address or <a href="/">click here to go home</a>
+    .
+  </h1>
+);
 
 function App() {
-  const [loggedInUser, setLoggedInUser] = useState(null);
-
   if (window.innerWidth >= "480") {
-    PhoneValidation();
+    return (
+      <h1 style={{ textAlign: "center" }}>
+        Sorry , This application only works on phone devices
+      </h1>
+    );
   } else {
-    // Simple login handler
-    function handleLogin(username, password) {
-      const user = database.find(
-        (u) => u.username === username && u.password === password
-      );
-      if (user) {
-        setLoggedInUser(user);
-      } else {
-        alert("Invalid username or password");
-      }
-    }
-
-    return loggedInUser ? (
-      <HomeFirstPage name={loggedInUser.name} />
-    ) : (
-      <LoginPage onLogin={handleLogin} />
+    return (
+      <BrowserRouter>
+        <Routes>
+          <Route path="*" element={UnavailableMssg}></Route>
+          <Route path="/" element={<StartupPage />}></Route>
+          <Route path="/loginPage" element={<LoginPage />}></Route>
+          <Route path="/homePage" element={<WelcomeHomePage />}></Route>
+          <Route path="/friends" element={<Friends />}></Route>
+          <Route path="/messages" element={<Messages />}></Route>
+          <Route path="/watch" element={<Reels />}></Route>
+          <Route path="/notifications" element={<Notifications />}></Route>
+          <Route path="/marketplace" element={<MarketPlace />}></Route>
+        </Routes>
+      </BrowserRouter>
     );
   }
 }

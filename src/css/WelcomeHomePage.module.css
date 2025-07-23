@@ -1,0 +1,194 @@
+.WhatsOnMindInput::placeholder {
+  color: black;
+}
+
+.WhatsOnMindInput {
+  height: fit-content;
+  
+}
+
+.mainStoryCard,
+.storyCard {
+  height: 95%;
+  overflow: hidden;
+  min-width: 103px;
+  width: 103px;
+  border-radius: 10px;
+
+  text-align: center;
+  font-weight: 600;
+  position: relative;
+
+  img {
+    height: 100%;
+    width: auto;
+  }
+}
+
+.mainStoryCard > img {
+  height: 60%;
+  width: 100%;
+}
+
+/***** Inside Header component ********/
+/*************************************/
+/* Header component has this properties */
+/*************************************/
+header.homePageHeader1 {
+  /* Here is 2 lines fb-name-logo and 2 buttons
+  then: 6 icons separeted next to each other 
+  */
+  height: 83px;
+  padding: 5px 10px;
+
+  div.upperPart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  div.bottomPart {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3%;
+    margin-top: 1%;
+    height: 55%;
+    align-items: center;
+  }
+}
+
+header.homePageHeader2 {
+  /* Here container of pp-img , input , upload pic */
+  display: flex;
+  gap: 3%;
+  padding: 4% 4%;
+  justify-content: space-between;
+  /*height: 37px;*/
+  height: fit-content;
+  align-items: center;
+
+  textarea.WhatsOnMindInput {
+    width: 90%;
+    background-color: #f1f0efe8;
+    /*height: 65%;*/
+    overflow: hidden;
+    resize: none;
+    font-size: 0.9rem;
+    padding: 2% 5%;
+    border: none;
+    border-radius: 20px;
+    
+  }
+
+}
+
+/***** Inside Stories component ********/
+/*************************************/
+/* Each Story Card has this properties */
+/*************************************/
+section.storiesContainer {
+  display: flex;
+  overflow: scroll;
+  align-items: center;
+  padding: 0 2%;
+  gap: 2%;
+  height: 198px;
+
+  div.mainStoryCard {
+    p.plusSymbol {
+      background-color: blue;
+      left: 37%;
+      bottom: 30%;
+      position: absolute;
+      color: white;
+      border-radius: 50%;
+      padding: 0 5%;
+      align-self: center;
+      justify-self: center;
+      font-size: 1.5rem;
+    }
+    p.createStory {
+      position: absolute;
+      font-size: 0.8rem;
+      bottom: 5%;
+      width: 100%;
+    }
+  }
+}
+
+/***** Inside Posts component ********/
+/*************************************/
+/* Each Post Card has this properties */
+/*************************************/
+div.postCard {
+  height: auto;
+  padding: 1% 0;
+  header {
+    display: grid;
+    grid-template-columns: 95% 5%;
+    padding: 1% 3%;
+    div {
+      display: flex;
+      gap: 2%;
+      img {
+        height: 50px;
+        width: 55px;
+        border-radius: 50%;
+      }
+      p {
+        font-weight: bold;
+        position: relative;
+
+        img {
+          /* verified img icon inside the <p> ! */
+          position: absolute;
+          top: 3%;
+          margin: 0 2%;
+          height: 22px;
+          width: auto;
+        }
+      }
+    }
+
+    svg {
+      height: 30px;
+    }
+  }
+
+  main {
+    padding: 1% 3%;
+  }
+
+  footer {
+    div.upperFooter {
+      display: flex;
+      align-items: center;
+      gap: 2%;
+      padding: 1% 3%;
+
+      div {
+        display: flex;
+        img {
+          height: 17px; /* for like, comment , love emojis */
+        }
+      }
+    }
+    div.bottomFooter {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 2%;
+      padding: 1% 3%;
+
+      div.likeContainer,
+      div.commentContainer,
+      div.shareContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 20px;
+        gap: 2%;
+        padding: 5% 3%;
+        background-color: #f2e8ea;
+      }
+    }
+  }
+}

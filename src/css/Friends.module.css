@@ -1,0 +1,55 @@
+.Buttons {
+    /* Container of buttons */
+    display: flex;
+    gap: 10px;
+    padding-top: 4%;
+    
+    button {
+        /* 2 buttons */
+        border: none;
+        padding: 10px 10px;
+        border-radius: 25px;
+        font-weight: bold;
+        background-color: rgba(231, 226, 226, 0.874);
+    }
+}
+
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 0;
+    align-items: center;
+
+
+    .ProfileIMG {
+        min-height: 100px;
+        max-height: 100px;
+        min-width: 100px;
+        max-width: 100px;
+        border-radius: 50%;
+        margin-right: 3%;
+    }
+}
+
+.confirmButton {
+    color: white;
+    background-color: rgba(0, 102, 255, 0.956);
+}
+.deleteButton {
+    background-color: rgba(231, 226, 226, 0.874);
+}
+
+.confirmButton, 
+.deleteButton {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border:none;
+    font-weight: bold;
+    width: 100%;
+}
+
